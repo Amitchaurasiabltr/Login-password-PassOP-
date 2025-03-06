@@ -1,4 +1,3 @@
-
 const Navbar = () => {
   return (
     <nav className=" bg-gray-800 text-white">
@@ -24,7 +23,7 @@ const Navbar = () => {
           <img
             className="invert w-10 p-1"
             src="/public/icons/github.png"
-            alt="github logo"
+            alt=""
           />
           <span className="font-bold px-2">GitHub</span>
         </button>
@@ -34,4 +33,3 @@ const Navbar = () => {
 };
 
 export default Navbar;
- 
